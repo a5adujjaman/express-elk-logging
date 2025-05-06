@@ -1,0 +1,26 @@
+{
+  "name": "express-elk-logging",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a5adujjaman/express-elk-logging.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a5adujjaman/express-elk-logging/issues"
+  },
+  "homepage": "https://github.com/a5adujjaman/express-elk-logging#readme",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "morgan": "^1.10.0",
+    "winston": "^3.17.0"
+  }
+}

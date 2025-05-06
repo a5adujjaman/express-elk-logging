@@ -1,0 +1,15 @@
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-05-06T11:58:12.432Z"}
+{"level":"info","message":"Root route accessed","method":"GET","route":"/","timestamp":"2025-05-06T11:58:38.622Z"}
+{"level":"info","message":"Root route accessed","method":"GET","route":"/","timestamp":"2025-05-06T11:59:27.945Z"}
+{"level":"info","message":"Root route accessed","method":"GET","route":"/","timestamp":"2025-05-06T11:59:32.605Z"}
+{"level":"info","message":"Root route accessed","method":"GET","route":"/","timestamp":"2025-05-06T11:59:33.831Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-05-06T12:00:47.273Z"}
+{"level":"info","message":"Root route accessed","method":"GET","route":"/","timestamp":"2025-05-06T12:01:12.140Z"}
+{"level":"info","message":"Root route accessed","method":"GET","route":"/","timestamp":"2025-05-06T12:01:19.548Z"}
+{"level":"info","message":"Root route accessed","method":"GET","route":"/","timestamp":"2025-05-06T12:01:24.429Z"}
+{"level":"info","message":"Root route accessed","method":"GET","route":"/","timestamp":"2025-05-06T12:01:25.018Z"}
+{"level":"info","message":"Root route accessed","method":"GET","route":"/","timestamp":"2025-05-06T12:01:25.554Z"}
+{"level":"info","message":"Root route accessed","method":"GET","route":"/","timestamp":"2025-05-06T12:01:25.916Z"}
+{"level":"info","message":"Root route accessed","method":"GET","route":"/","timestamp":"2025-05-06T12:01:26.143Z"}
+{"level":"info","message":"Root route accessed","method":"GET","route":"/","timestamp":"2025-05-06T12:01:26.289Z"}
+{"level":"info","message":"Root route accessed","method":"GET","route":"/","timestamp":"2025-05-06T12:01:26.538Z"}
