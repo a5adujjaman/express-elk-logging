@@ -1,19 +1,19 @@
-const express = require("express");
-const logger = require("./logger");
-
+const express = require('express');
 const app = express();
-const port = process.env.PORT || 3000;
+const logger = require('./logger');
+const authRoutes = require('./routes/auth');
 
-app.get("/", (req, res) => {
-  logger.info("Root route accessed", { route: "/", method: "GET" });
-  res.send("Hello from Express with Winston logging!");
+// Middleware
+app.use(express.json()); // <-- very important
+
+// Routes
+app.get('/', (req, res) => {
+  res.send('Hello from Express with Winston logging!');
 });
 
-app.get("/error", (req, res) => {
-  logger.error("Something went wrong!", { route: "/error", method: "GET" });
-  res.status(500).send("Internal Server Error");
-});
+app.use('/', authRoutes); // mounts /login
 
-app.listen(port, () => {
-  logger.info(`Server running on port ${port}`);
+// Start server
+app.listen(3000, () => {
+  logger.info('Server running on http://localhost:3000');
 });

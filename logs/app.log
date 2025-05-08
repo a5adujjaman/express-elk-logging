@@ -14,3 +14,7 @@
 {"level":"info","message":"Root route accessed","method":"GET","route":"/","timestamp":"2025-05-06T12:01:26.289Z"}
 {"level":"info","message":"Root route accessed","method":"GET","route":"/","timestamp":"2025-05-06T12:01:26.538Z"}
 {"level":"info","message":"Root route accessed","method":"GET","route":"/","timestamp":"2025-05-06T12:04:20.221Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-05-08T06:13:32.629Z"}
+{"level":"info","message":"Root route accessed","method":"GET","route":"/","timestamp":"2025-05-08T06:14:07.842Z"}
+{"level":"info","message":"Root route accessed","method":"GET","route":"/","timestamp":"2025-05-08T06:43:40.955Z"}
+{"level":"info","message":"Root route accessed","method":"GET","route":"/","timestamp":"2025-05-08T06:51:04.123Z"}
